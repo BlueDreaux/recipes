@@ -14,8 +14,8 @@ A shareable collection of recipes organized with a flexible multi-tag categoriza
 
 ## Quick Start
 ### Browse Recipes
-1. **Browse all recipes**: Check the [`recipes/`](recipes/README.md) directory
-2. **Browse by tags**: Check the [`tags/`](tags/README.md) directory for organized indexes
+1. **Browse all recipes**: Check the [`recipes/`](recipes/) directory
+2. **Browse by tags**: Check the [`tags/`](tags/) directory for organized indexes
 3. **Read the tagging guide**: See [`TAGGING.md`](TAGGING.md) for detailed information
 
 ### Add a New Recipe
