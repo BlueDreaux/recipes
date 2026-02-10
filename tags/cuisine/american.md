@@ -4,4 +4,4 @@
 
 Found 1 recipe(s):
 
-- [Classic Chocolate Chip Cookies](../../recipes/chocolate-chip-cookies.md)
+- [Classic Chocolate Chip Cookies](../../recipes/demo/chocolate-chip-cookies.md)

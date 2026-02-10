@@ -1,6 +1,6 @@
-# Recipes tagged with: butter
+# Recipes tagged with: thanksgiving
 
-**Category:** ingredients
+**Category:** occasion
 
 Found 1 recipe(s):
 

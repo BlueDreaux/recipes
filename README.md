@@ -52,21 +52,18 @@ tags:
 ---
 
 # Your Recipe Name
-
 Description of your recipe.
 
-## Ingredients
+## Notes
+Any additional tips or variations
 
+## Ingredients
 - List your ingredients here
 
 ## Instructions
-
 1. Step by step instructions
 2. Continue...
 
-## Notes
-
-Any additional tips or variations
 ```
 
 ## Repository Structure

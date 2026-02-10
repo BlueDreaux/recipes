@@ -1,6 +1,6 @@
-# Recipes tagged with: butter
+# Recipes tagged with: vegan-capable
 
-**Category:** ingredients
+**Category:** dietary
 
 Found 1 recipe(s):
 

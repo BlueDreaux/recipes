@@ -4,7 +4,7 @@ Browse recipes by category:
 
 ## [Cuisine](cuisine/README.md)
 
-3 tags, 3 recipes
+1 tag, 1 recipe
 
 ## [Dietary](dietary/README.md)
 
@@ -12,25 +12,25 @@ Browse recipes by category:
 
 ## [Difficulty](difficulty/README.md)
 
-2 tags, 3 recipes
+1 tag, 1 recipe
 
 ## [Ingredients](ingredients/README.md)
 
-10 tags, 12 recipes
+13 tags, 13 recipes
 
 ## [Method](method/README.md)
 
-3 tags, 4 recipes
+1 tag, 1 recipe
 
 ## [Occasion](occasion/README.md)
 
-7 tags, 8 recipes
+3 tags, 3 recipes
 
 ## [Time](time/README.md)
 
-2 tags, 3 recipes
+1 tag, 1 recipe
 
 ## [Type](type/README.md)
 
-7 tags, 7 recipes
+2 tags, 2 recipes
 

@@ -1,4 +1,4 @@
-# Recipes tagged with: butter
+# Recipes tagged with: dates
 
 **Category:** ingredients
 

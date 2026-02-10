@@ -2,5 +2,4 @@
 
 Browse recipes by difficulty:
 
-- [easy](easy.md) (2 recipes)
-- [moderate](moderate.md) (1 recipe)
+- [easy](easy.md) (1 recipe)

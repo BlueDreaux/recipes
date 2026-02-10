@@ -1,4 +1,4 @@
-# Recipes tagged with: butter
+# Recipes tagged with: pecans
 
 **Category:** ingredients
 

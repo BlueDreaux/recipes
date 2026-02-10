@@ -1,6 +1,6 @@
-# Recipes tagged with: butter
+# Recipes tagged with: bake
 
-**Category:** ingredients
+**Category:** method
 
 Found 1 recipe(s):
 

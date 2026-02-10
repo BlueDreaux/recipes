@@ -1,6 +1,6 @@
-# Recipes tagged with: butter
+# Recipes tagged with: special-occasions
 
-**Category:** ingredients
+**Category:** occasion
 
 Found 1 recipe(s):
 
