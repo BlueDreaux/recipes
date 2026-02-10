@@ -35,23 +35,23 @@ tags:
 
 # Dried Fruit Cookies
 ## Notes
-  These freeze well for weeks. NEVER DOUBLE! It makes boatloads!
+These freeze well for weeks. NEVER DOUBLE! It makes boatloads!
 
-  I found the dates mix better if I chop them. You can also buy them chopped which
-  also lessens the odds of getting dates with overlooked pits remaining in them. The
-  down side to chopped is that it's harder to find them chopped and not dusted.
+I found the dates mix better if I chop them. You can also buy them chopped which
+also lessens the odds of getting dates with overlooked pits remaining in them. The
+down side to chopped is that it's harder to find them chopped and not dusted.
 
-  Previously used a gluten friendly flour alternative that worked but forgot to log it.
-    - Tried using coconut flour on a batch and that absolutely did NOT work.
-      - Came out like gritty sand and didn't stick together for the right texture at all.
-    - Maybe Garbanzo flour?
+Previously used a gluten friendly flour alternative that worked but forgot to log it.
+- Tried using coconut flour on a batch and that absolutely did NOT work.
+  - Came out like gritty sand and didn't stick together for the right texture at all.
+- Maybe Garbanzo flour?
 
-  This adapts well for vegan folks.
-    - "Just Egg, Plant-Based Egg" - worked.
-    - Margarine for butter & oat milk worked well.
+This adapts well for vegan folks.
+- "Just Egg, Plant-Based Egg" - worked.
+- Margarine for butter & oat milk worked well.
 
-  Not sure if it makes a difference but since these are usually made around Thanksgiving
-  time I like to use Wild Turkey as the brand of whiskey.
+Not sure if it makes a difference but since these are usually made around Thanksgiving
+time I like to use Wild Turkey as the brand of whiskey.
 
 ## Have Ready
 ### Dried Fruits
