@@ -1,9 +1,7 @@
 # Recipes Collection
-
 A shareable collection of recipes organized with a flexible multi-tag categorization system.
 
 ## Features
-
 ✨ **Multi-Tag Categorization**: Organize recipes by multiple attributes including:
 - 🥘 **Ingredients**: Main and key ingredients (chicken, tomato, chocolate, etc.)
 - 🍽️ **Type of Dish**: Appetizers, main courses, desserts, salads, etc.
@@ -15,11 +13,9 @@ A shareable collection of recipes organized with a flexible multi-tag categoriza
 📑 **Automatic Tag Indexes**: Browse recipes by any tag category using auto-generated indexes
 
 ## Quick Start
-
 ### Browse Recipes
-
-1. **Browse all recipes**: Check the [`recipes/`](recipes/) directory
-2. **Browse by tags**: Check the [`tags/`](tags/) directory for organized indexes
+1. **Browse all recipes**: Check the [`recipes/`](recipes/README.md) directory
+2. **Browse by tags**: Check the [`tags/`](tags/README.md) directory for organized indexes
 3. **Read the tagging guide**: See [`TAGGING.md`](TAGGING.md) for detailed information
 
 ### Add a New Recipe
@@ -124,9 +120,9 @@ Contributions are welcome! When adding recipes:
 
 Check out these example recipes to see the tagging system in action:
 
-- [Chicken Parmesan](recipes/chicken-parmesan.md) - Italian main course
-- [Chocolate Chip Cookies](recipes/chocolate-chip-cookies.md) - Classic dessert
-- [Greek Salad](recipes/greek-salad.md) - Quick and healthy side dish
+- [Chicken Parmesan](recipes/demos/chicken-parmesan.md) - Italian main course
+- [Chocolate Chip Cookies](recipes/demos/chocolate-chip-cookies.md) - Classic dessert
+- [Greek Salad](recipes/demos/greek-salad.md) - Quick and healthy side dish
 
 ## License
 

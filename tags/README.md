@@ -4,33 +4,33 @@ Browse recipes by category:
 
 ## [Cuisine](cuisine/README.md)
 
-1 tag, 1 recipe
+4 tags, 4 recipes
 
 ## [Dietary](dietary/README.md)
 
-2 tags, 2 recipes
+4 tags, 4 recipes
 
 ## [Difficulty](difficulty/README.md)
 
-1 tag, 1 recipe
+2 tags, 4 recipes
 
 ## [Ingredients](ingredients/README.md)
 
-13 tags, 13 recipes
+21 tags, 25 recipes
 
 ## [Method](method/README.md)
 
-1 tag, 1 recipe
+4 tags, 5 recipes
 
 ## [Occasion](occasion/README.md)
 
-3 tags, 3 recipes
+10 tags, 11 recipes
 
 ## [Time](time/README.md)
 
-1 tag, 1 recipe
+2 tags, 4 recipes
 
 ## [Type](type/README.md)
 
-2 tags, 2 recipes
+7 tags, 9 recipes
 

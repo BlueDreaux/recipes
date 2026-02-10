@@ -4,4 +4,4 @@
 
 Found 1 recipe(s):
 
-- [Chicken Parmesan](../../recipes/chicken-parmesan.md)
+- [Chicken Parmesan](../../recipes/demos/chicken-parmesan.md)

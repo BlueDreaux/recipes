@@ -4,5 +4,5 @@
 
 Found 2 recipe(s):
 
-- [Chicken Parmesan](../../recipes/chicken-parmesan.md)
-- [Classic Chocolate Chip Cookies](../../recipes/chocolate-chip-cookies.md)
+- [Chicken Parmesan](../../recipes/demos/chicken-parmesan.md)
+- [Classic Chocolate Chip Cookies](../../recipes/demos/chocolate-chip-cookies.md)

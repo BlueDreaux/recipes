@@ -4,5 +4,5 @@
 
 Found 2 recipe(s):
 
-- [Chicken Parmesan](../../recipes/chicken-parmesan.md)
-- [Greek Salad](../../recipes/greek-salad.md)
+- [Chicken Parmesan](../../recipes/demos/chicken-parmesan.md)
+- [Greek Salad](../../recipes/demos/greek-salad.md)

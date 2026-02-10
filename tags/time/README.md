@@ -2,4 +2,5 @@
 
 Browse recipes by time:
 
-- [quick](quick.md) (1 recipe)
+- [medium](medium.md) (1 recipe)
+- [quick](quick.md) (3 recipes)
