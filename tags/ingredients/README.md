@@ -10,7 +10,7 @@ Browse recipes by ingredients:
 - [cinnamon](cinnamon.md) (1 recipe)
 - [cucumber](cucumber.md) (1 recipe)
 - [dates](dates.md) (1 recipe)
-- [dried cherries](dried cherries.md) (1 recipe)
+- [dried-cherries](dried-cherries.md) (1 recipe)
 - [egg](egg.md) (1 recipe)
 - [eggs](eggs.md) (1 recipe)
 - [flour](flour.md) (2 recipes)
@@ -23,3 +23,4 @@ Browse recipes by ingredients:
 - [pecans](pecans.md) (1 recipe)
 - [raisins](raisins.md) (1 recipe)
 - [tomato](tomato.md) (2 recipes)
+- [whiskey](whiskey.md) (1 recipe)
