@@ -52,7 +52,8 @@ associated with cozy gatherings around a warm fire in cold weather.
 - Gluten Friendly
   > Previously used a [gluten friendly flour alternative](https://www.thekitchn.com/16-gluten-free-flour-alternatives-22943791)
   > that worked well but forgot to log it:
-  > - Maybe Garbanzo or Almond flour?
+  > - Garbanzo/Chickpea flour worked.
+  > - Almond flour might work?
   > - Coconut flour might be able to work but takes experience working with it and major adjustments to this recipe.
 - Vegan Friendly
   > This adapts well for vegan folks:
